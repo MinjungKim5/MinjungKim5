@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
   </a>
-  ![항해 플러스 수료 인증서](https://github.com/user-attachments/assets/3e4b4cb6-9d04-4c00-82ec-6d360beb0054)
+  ![항해 플러스 수료 인증서](https://github.com/user-attachments/assets/12e2581f-7d49-4747-9355-ade9d2e07c21)
 
 </div>
